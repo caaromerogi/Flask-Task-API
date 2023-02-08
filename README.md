@@ -31,3 +31,6 @@ PS C:\Users\carlo\OneDrive\Escritorio\Flask> deactivate
 ```
 
 Remember, if you want to install a dependency for a specific don't do it outside of a venv, becase you will install the dependecy globally and this can cause compatibility issues in the future. Make sure to create a venv for every python project that you do.
+
+- The required dependencies for this project are in this video : https://www.youtube.com/watch?v=MvVqjQqSdM4&t=1880s
+  min 3:45. Also, in the first minutes you can find how to create a venv
